@@ -1,8 +1,8 @@
 /*
- * two digit.c
+ * three digit.c
  *
  * Created: 07-07-2022 00:33:25
- * Author : akhtar
+ * Author : arjun
  */ 
 
 #include <avr/io.h>
